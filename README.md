@@ -1,5 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=rabbisudo&icon=2&color=12)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=rabbisudo&color=404d59&style=for-the-badge)
   
   ```javascript
   import { Profile } from "github";
