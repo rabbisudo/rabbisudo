@@ -10,7 +10,7 @@
   ```
 
 ## About Me
-I'm a tech lover. I love to learn the new & try it out. 😄 Basically I'm a full web developer. Besides, I'm a Linux enthusiast and I also love working with various NodeJS. I'm learning  python.
+I'm a tech lover. I love to learn the new & try it out. 😄 Basically I'm a web developer. Besides, I'm a Linux enthusiast and I also love working with various NodeJS. I'm learning  python.
 
 ### Skills
 #### I'm mostly familiar with: <br />
